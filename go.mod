@@ -1,4 +1,4 @@
-module github.com/scttfrdmn/spore-host-plugin-tailscale
+module github.com/spore-host/spore-host-plugin-tailscale
 
 go 1.21
 
