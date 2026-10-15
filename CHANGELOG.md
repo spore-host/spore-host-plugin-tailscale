@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-10-15
+
 ### Security
 
 - **Built and tested with Go 1.26.9 (was Go 1.21).** `go.mod` now declares
@@ -52,5 +54,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `tailscale logout` in stop steps for clean ephemeral-node deregistration
 - `tailscale status` health check (1-minute interval)
 
-[Unreleased]: https://github.com/spore-host/spore-host-plugin-tailscale/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/spore-host/spore-host-plugin-tailscale/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/spore-host/spore-host-plugin-tailscale/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/spore-host/spore-host-plugin-tailscale/releases/tag/v0.1.0
